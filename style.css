@@ -1,0 +1,55 @@
+#hanging-icons {
+  background-image: url("/images/bg-pattern.webp");
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.btn-primary {
+  background-color: rgb(81, 79, 79) !important;
+  border-color: rgb(81, 79, 79) !important;
+}
+
+.btn-lg a:hover {
+  color: rgb(224, 224, 93) !important;
+}
+
+h2 {
+  margin-bottom: 1rem;
+}
+
+.row-cols-1 {
+  padding-top: 1rem;
+}
+
+a:hover {
+  color: rgb(224, 224, 93) !important;
+}
+
+#about-us {
+  text-align: center;
+}
+
+.col-lg-10 {
+  font-weight: lighter;
+}
+
+.clearfix {
+  display: inline-flex;
+  gap: 2rem;
+}
+
+.lead {
+  font-family: poppins;
+}
+
+.container-social {
+  display: inline-flex;
+}
+
+/* .works {
+  text-align: center;
+}
+
+.name: {
+  margin: auto 0;
+} */
